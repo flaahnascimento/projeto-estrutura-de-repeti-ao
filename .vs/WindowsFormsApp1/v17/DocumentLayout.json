@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|projeto estrutura de repeticao.csproj|c:\\users\\flavia\\desktop\\windowsformsapp1\\lista de  0 a 20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|projeto estrutura de repeticao.csproj|solutionrelative:lista de  0 a 20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|projeto estrutura de repeticao.csproj|c:\\users\\flavia\\desktop\\windowsformsapp1\\defina um intervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|projeto estrutura de repeticao.csproj|solutionrelative:defina um intervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|projeto estrutura de repeticao.csproj|c:\\users\\flavia\\desktop\\windowsformsapp1\\defina um intervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|projeto estrutura de repeticao.csproj|solutionrelative:defina um intervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|WindowsFormsApp1.csproj|c:\\users\\flavia\\desktop\\windowsformsapp1\\tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|WindowsFormsApp1.csproj|solutionrelative:tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|projeto estrutura de repeticao.csproj|c:\\users\\flavia\\desktop\\windowsformsapp1\\lista de  0 a 20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|projeto estrutura de repeticao.csproj|solutionrelative:lista de  0 a 20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|projeto estrutura de repeticao.csproj|c:\\users\\flavia\\desktop\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|projeto estrutura de repeticao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|WindowsFormsApp1.csproj|c:\\users\\flavia\\desktop\\windowsformsapp1\\tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF3B76E-3521-4B2B-861C-E04D5FF00151}|WindowsFormsApp1.csproj|solutionrelative:tabuada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lista de  0 a 20.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\lista de  0 a 20.cs",
+              "RelativeDocumentMoniker": "lista de  0 a 20.cs",
+              "ToolTip": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\lista de  0 a 20.cs [Design]",
+              "RelativeToolTip": "lista de  0 a 20.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:42:57.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "defina um intervalo.cs",
+              "DocumentMoniker": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\defina um intervalo.cs",
+              "RelativeDocumentMoniker": "defina um intervalo.cs",
+              "ToolTip": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\defina um intervalo.cs",
+              "RelativeToolTip": "defina um intervalo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwDAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:14:39.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "defina um intervalo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\defina um intervalo.cs",
+              "RelativeDocumentMoniker": "defina um intervalo.cs",
+              "ToolTip": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\defina um intervalo.cs [Design]",
+              "RelativeToolTip": "defina um intervalo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:07:24.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tabuada.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\tabuada.cs",
+              "RelativeDocumentMoniker": "tabuada.cs",
+              "ToolTip": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\tabuada.cs [Design]",
+              "RelativeToolTip": "tabuada.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:02:23.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lista de  0 a 20.cs",
+              "DocumentMoniker": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\lista de  0 a 20.cs",
+              "RelativeDocumentMoniker": "lista de  0 a 20.cs",
+              "ToolTip": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\lista de  0 a 20.cs",
+              "RelativeToolTip": "lista de  0 a 20.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:53:17.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:16:25.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tabuada.cs",
+              "DocumentMoniker": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\tabuada.cs",
+              "RelativeDocumentMoniker": "tabuada.cs",
+              "ToolTip": "C:\\Users\\flavia\\Desktop\\WindowsFormsApp1\\tabuada.cs",
+              "RelativeToolTip": "tabuada.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:03:37.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
